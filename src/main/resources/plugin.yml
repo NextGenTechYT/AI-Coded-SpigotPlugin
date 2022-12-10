@@ -1,0 +1,9 @@
+name: PluginCodedByAI
+version: '${project.version}'
+main: com.torben.aicodedplugin.Aicodedplugin
+api-version: 1.16
+authors: [ AI ]
+description: this plugin has gode gennerated by open ai
+website: chat.openai.com
+commands:
+  sharp500:
